@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Trang chủ</title>
     <link rel="stylesheet" href="css/css.css">
 </head>
 <body>
