@@ -55,7 +55,7 @@ header{
 article{
    text-align: center;
     min-height:400px;
-    width: 100px;
+    width: 100%;
 }
 .caption{
     font-size: 25px;
