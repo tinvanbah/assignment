@@ -54,7 +54,7 @@ header{
 }
 article{
    text-align: center;
-    min-height:400px;
+    min-height:450px;
 }
 .caption{
     font-size: 25px;
@@ -75,7 +75,7 @@ text-align: center;
     background-color:white;
     float: left;
     text-align: center;
-    position: relative;left: 60px;right: 50px;
+    position: relative;left: 20px;
     
 }
 .noidung>img{
