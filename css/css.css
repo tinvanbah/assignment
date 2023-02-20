@@ -55,7 +55,6 @@ header{
 article{
    text-align: center;
     min-height:400px;
-    width: 1500px;
 }
 .caption{
     font-size: 25px;
@@ -88,7 +87,6 @@ text-align: center;
 }
 aside{
 min-height: 800px;;
-width: 2000px;
 background-color: darkgrey;
 }
 aside>.noidung{
